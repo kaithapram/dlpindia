@@ -1,0 +1,32 @@
+title: DLP India - Get Best Online and Distance Learning programs
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+ DLP India is an online education portal offering a varied range of courses that include distance learning courses. Get the admission in Mba, marketing, six sigma, quality Management and many more programs from top universities. Also, get high-class Bachelor and Master Degree programs as well as PhDs and short courses from top universities worldwide. We have enrolled more than 15,000 students globally in different specializations, and now you can also be a part of it.
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://keralahost.in/dlpindia" # the base hostname & protocol for your site
+google_adsense: 
+
+markdown: kramdown
+
+name: DLP India - Get Best Online and Distance Learning programs
+
+date: 2019-02-27 10:26:23 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/dlpindia/
+google_analytics: 
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+# Details for the RSS feed generator
+author:        DLP India
